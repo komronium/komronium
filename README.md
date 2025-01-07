@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @komronium
+- 👀 I’m interested in software development, especially in web technologies like Django, FastAPI, and Python.
+- 🌱 I’m currently learning more about advanced backend architectures and improving my skills in building full-featured applications.
+- 💞️ I’m looking to collaborate on open-source projects, especially those related to e-commerce or social media platforms.
+- 📫 How to reach me: You can reach me via my GitHub Discussions or email at [komronium@gmail.com].
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving Leetcode problems and challenging myself with complex algorithms.
